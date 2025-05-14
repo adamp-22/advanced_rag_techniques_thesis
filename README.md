@@ -1,5 +1,7 @@
 # Agentic RAG for Document-Based Question Answering
 
+> 🗓️ **Project originally created on: February 26, 2025**
+
 This repository supports my Bachelor's thesis exploring advanced Retrieval-Augmented Generation (RAG) techniques, culminating in the implementation of an agentic RAG system. The goal is to investigate whether incorporating agentic workflows leads to better factual accuracy and reasoning performance in document-based QA.
 
 ---
