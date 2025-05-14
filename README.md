@@ -46,3 +46,8 @@ Each RAG system is evaluated on a fixed set of 20 hand-crafted questions, coveri
 - Cost efficiency
 
 ---
+
+
+## 👤 Author and Creation Date 
+
+**Adam Parkanyi**  
