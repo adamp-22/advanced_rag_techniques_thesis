@@ -1,4 +1,4 @@
-# Agentic RAG for Document-Based Question Answering
+# Advanced RAG Systems for Document-Based QA
 
 > 🗓️ **Project originally created on: February 26, 2025**
 
